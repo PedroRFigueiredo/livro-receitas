@@ -2,4 +2,4 @@
 
 Olá! Bem vindo ao meu livro de receitas
 
-- strogonoff de frando
+- strogonoff de frango
